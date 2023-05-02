@@ -25,7 +25,6 @@ public class Main {
 
         long inicio, fim, tempoExecucao1, tempoExecucao2;
 
-
         ArrayList<Long> temposCollection = new ArrayList<>();
 
         // le o CSV e ja retorna o Array de Objetos
